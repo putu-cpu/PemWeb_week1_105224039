@@ -2,7 +2,7 @@ docs/praktikum/modul-01.md
 # Dokumen Teknis Modul 1 — Lingkungan Pengembangan, Git, dan Lalu Lintas
 HTTP
 Nama/NIM : 105224039
-Repositori : 
+Repositori : https://github.com/putu-cpu/PemWeb_week1_105224039
 
 ## 1. Lingkungan Pengembangan
 
@@ -21,7 +21,7 @@ Repositori :
 - Keluaran git log --oneline --graph
   * 7482fb3 (HEAD -> main, origin/main) week 1
 - Tautan pull request yang telah digabungkan
-  -
+  - https://github.com/putu-cpu/PemWeb_week1_105224039/pull/1
 - Konflik yang terjadi, cara penyelesaian, dan alasan pemilihan isi akhir
   jawab :
   Konflik yang terjadi, cara penyelesaian, dan alasan pemilihan isi akhir
