@@ -43,14 +43,15 @@ yang sama, sehingga Git dapat menggabungkannya secara otomatis.
 ### 3.1 Lembar Kerja Pengamatan (Tabel 9)
 
 - Lembar kerja pengamatan (Tabel 9) beserta tangkapan layar DevTools
-| No | URL / Sumber | Keterangan |
-|---|---|---|
-| 1 |[Tabel 9](image-6.png) | Tabel 9 |
-| 2 |[http://local host:3000/](image.png) | Halaman utama |
-| 3 |[http://localhost:3000/halaman-tidak-ada](image-1.png) | Halaman tidak ditemukan (404) |
-| 4 |[Satu berkas CSS atau JS dari localhost](image-2.png) | Satu berkas statis |
-| 5 |[http://github.com(curl)](image-3.png) | Pengamatan dengan curl |
-| 6 |[http://developer.mozilla .org (dengan cache) ](image-4.png) | Dengan cache |
+
+| No | URL / Sumber                                | Tangkapan Layar              | Keterangan                    |
+| :- | :------------------------------------------ | :--------------------------- | :---------------------------- |
+| 1  | Tabel 9                                     | ![Tabel 9](image-6.png)      | Lembar kerja pengamatan       |
+| 2  | http://localhost:3000/                      | ![Halaman Utama](image.png)  | Halaman utama                 |
+| 3  | http://localhost:3000/halaman-tidak-ada     | ![Halaman 404](image-1.png)  | Halaman tidak ditemukan (404) |
+| 4  | Berkas CSS/JS dari localhost                | ![Satu Berkas](image-2.png)  | Satu berkas statis            |
+| 5  | http://github.com (curl)                    | ![Curl](image-3.png)         | Pengamatan dengan curl        |
+| 6  | http://developer.mozilla.org (dengan cache) | ![Dengan Cache](image-4.png) | Dengan cache                  |
 
 ### 3.2 Keluaran curl -I dan curl -v
 
